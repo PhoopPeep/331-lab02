@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 5555555,
+      "category": "reading",
+      "title": "Book fair",
+      "description": "Bookstores or publisher set up booths to sell books. ",
+      "location": "Mars",
+      "date": "April 30, 2222",
+      "time": "13:00",
+      "petsAllowed": true,
+      "organizer": "Minions"
     }
   ]
 }
