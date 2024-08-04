@@ -132,5 +132,127 @@
       "petsAllowed": true,
       "organizer": "Hiwwhee"
     }
+  ],
+  "passengers": [
+    {
+      "passenger_id": 1,
+      "first_name": "Rimuru",
+      "last_name": "Tempest",
+      "date_of_birth": "2000-01-01",
+      "gender": "Other",
+      "passport_number": "SLIME001",
+      "nationality": "Jura Tempest Federation",
+      "email": "rimuru.tempest@tempest.com",
+      "phone_number": "123-456-7890",
+      "address": "Tempest City, Jura Tempest Federation"
+    },
+    {
+      "passenger_id": 2,
+      "first_name": "Shizu",
+      "last_name": "Izawa",
+      "date_of_birth": "1990-04-05",
+      "gender": "Female",
+      "passport_number": "HUMAN001",
+      "nationality": "Tokyo (Earth)",
+      "email": "shizu.izawa@earth.com",
+      "phone_number": "098-765-4321",
+      "address": "Tokyo, Japan"
+    },
+    {
+      "passenger_id": 3,
+      "first_name": "Benimaru",
+      "last_name": "",
+      "date_of_birth": "1985-02-15",
+      "gender": "Male",
+      "passport_number": "OGRE001",
+      "nationality": "Ogre Village",
+      "email": "benimaru@ogrevillage.com",
+      "phone_number": "555-555-5555",
+      "address": "Ogre Village, Jura Tempest Federation"
+    },
+    {
+      "passenger_id": 4,
+      "first_name": "Shion",
+      "last_name": "",
+      "date_of_birth": "1987-07-20",
+      "gender": "Female",
+      "passport_number": "OGRE002",
+      "nationality": "Ogre Village",
+      "email": "shion@ogrevillage.com",
+      "phone_number": "555-555-5556",
+      "address": "Ogre Village, Jura Tempest Federation"
+    },
+    {
+      "passenger_id": 5,
+      "first_name": "Milim",
+      "last_name": "Nava",
+      "date_of_birth": "Unknown",
+      "gender": "Female",
+      "passport_number": "DRAG001",
+      "nationality": "Unknown",
+      "email": "milim.nava@dragonoid.com",
+      "phone_number": "555-555-5557",
+      "address": "Unknown"
+    },
+    {
+      "passenger_id": 6,
+      "first_name": "Gabiru",
+      "last_name": "",
+      "date_of_birth": "1995-10-30",
+      "gender": "Male",
+      "passport_number": "LIZARD001",
+      "nationality": "Lizardman Village",
+      "email": "gabiru@lizardman.com",
+      "phone_number": "555-555-5558",
+      "address": "Lizardman Village, Jura Tempest Federation"
+    },
+    {
+      "passenger_id": 7,
+      "first_name": "Soei",
+      "last_name": "",
+      "date_of_birth": "1988-11-11",
+      "gender": "Male",
+      "passport_number": "OGRE003",
+      "nationality": "Ogre Village",
+      "email": "soei@ogrevillage.com",
+      "phone_number": "555-555-5559",
+      "address": "Ogre Village, Jura Tempest Federation"
+    },
+    {
+      "passenger_id": 8,
+      "first_name": "Hakurou",
+      "last_name": "",
+      "date_of_birth": "1950-05-01",
+      "gender": "Male",
+      "passport_number": "OGRE004",
+      "nationality": "Ogre Village",
+      "email": "hakurou@ogrevillage.com",
+      "phone_number": "555-555-5560",
+      "address": "Ogre Village, Jura Tempest Federation"
+    },
+    {
+      "passenger_id": 9,
+      "first_name": "Ranga",
+      "last_name": "",
+      "date_of_birth": "2005-03-25",
+      "gender": "Male",
+      "passport_number": "DIRE001",
+      "nationality": "Forest of Jura",
+      "email": "ranga@direwolf.com",
+      "phone_number": "555-555-5561",
+      "address": "Forest of Jura, Jura Tempest Federation"
+    },
+    {
+      "passenger_id": 10,
+      "first_name": "Treyni",
+      "last_name": "",
+      "date_of_birth": "Unknown",
+      "gender": "Female",
+      "passport_number": "DRYAD001",
+      "nationality": "Treant Forest",
+      "email": "treyni@dryad.com",
+      "phone_number": "555-555-5562",
+      "address": "Treant Forest, Jura Tempest Federation"
+    }
   ]
 }
