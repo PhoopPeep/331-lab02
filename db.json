@@ -254,5 +254,21 @@
       "phone": "555-555-5562",
       "address": "Treant Forest, Jura Tempest Federation"
     }
+  ],
+  "airlines": [
+    {
+      "id": 2612,
+      "name": "Tempest Airlines",
+      "flightNumber": "TA123",
+      "departure": "Tempest City",
+      "arrival": "Tokyo"
+    },
+    {
+      "id": 2510,
+      "name": "Jura Airways",
+      "flightNumber": "JA456",
+      "departure": "Ogre Village",
+      "arrival": "Forest of Jura"
+    }
   ]
 }
