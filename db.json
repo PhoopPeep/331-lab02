@@ -144,7 +144,8 @@
       "nationality": "Jura Tempest Federation",
       "email": "rimuru.tempest@tempest.com",
       "phone": "123-456-7890",
-      "address": "Tempest City, Jura Tempest Federation"
+      "address": "Tempest City, Jura Tempest Federation",
+      "airline_id": 2612
     },
     {
       "id": 2,
@@ -156,7 +157,8 @@
       "nationality": "Tokyo (Earth)",
       "email": "shizu.izawa@earth.com",
       "phone": "098-765-4321",
-      "address": "Tokyo, Japan"
+      "address": "Tokyo, Japan",
+      "airline_id": 2510
     },
     {
       "id": 3,
@@ -168,7 +170,8 @@
       "nationality": "Ogre Village",
       "email": "benimaru@ogrevillage.com",
       "phone": "555-555-5555",
-      "address": "Ogre Village, Jura Tempest Federation"
+      "address": "Ogre Village, Jura Tempest Federation",
+      "airline_id": 2612
     },
     {
       "id": 4,
@@ -180,7 +183,8 @@
       "nationality": "Ogre Village",
       "email": "shion@ogrevillage.com",
       "phone": "555-555-5556",
-      "address": "Ogre Village, Jura Tempest Federation"
+      "address": "Ogre Village, Jura Tempest Federation",
+      "airline_id": 2510
     },
     {
       "id": 5,
@@ -192,7 +196,8 @@
       "nationality": "Unknown",
       "email": "milim.nava@dragonoid.com",
       "phone": "555-555-5557",
-      "address": "Unknown"
+      "address": "Unknown",
+      "airline_id": 2612
     },
     {
       "id": 6,
@@ -204,7 +209,8 @@
       "nationality": "Lizardman Village",
       "email": "gabiru@lizardman.com",
       "phone": "555-555-5558",
-      "address": "Lizardman Village, Jura Tempest Federation"
+      "address": "Lizardman Village, Jura Tempest Federation",
+      "airline_id": 2510
     },
     {
       "id": 7,
@@ -216,7 +222,8 @@
       "nationality": "Ogre Village",
       "email": "soei@ogrevillage.com",
       "phone": "555-555-5559",
-      "address": "Ogre Village, Jura Tempest Federation"
+      "address": "Ogre Village, Jura Tempest Federation",
+      "airline_id": 2612
     },
     {
       "id": 8,
@@ -228,7 +235,8 @@
       "nationality": "Ogre Village",
       "email": "hakurou@ogrevillage.com",
       "phone": "555-555-5560",
-      "address": "Ogre Village, Jura Tempest Federation"
+      "address": "Ogre Village, Jura Tempest Federation",
+      "airline_id": 2510
     },
     {
       "id": 9,
@@ -240,7 +248,8 @@
       "nationality": "Forest of Jura",
       "email": "ranga@direwolf.com",
       "phone": "555-555-5561",
-      "address": "Forest of Jura, Jura Tempest Federation"
+      "address": "Forest of Jura, Jura Tempest Federation",
+      "airline_id": 2510
     },
     {
       "id": 10,
@@ -252,7 +261,8 @@
       "nationality": "Treant Forest",
       "email": "treyni@dryad.com",
       "phone": "555-555-5562",
-      "address": "Treant Forest, Jura Tempest Federation"
+      "address": "Treant Forest, Jura Tempest Federation",
+      "airline_id": 2510
     }
   ],
   "airlines": [
